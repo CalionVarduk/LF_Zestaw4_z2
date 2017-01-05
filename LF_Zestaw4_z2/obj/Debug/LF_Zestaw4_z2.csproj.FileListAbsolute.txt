@@ -1,0 +1,12 @@
+H:\uś inf2\zpo\LF_Zestaw4_z2\LF_Zestaw4_z2\bin\Debug\LF_Zestaw4_z2.exe.config
+H:\uś inf2\zpo\LF_Zestaw4_z2\LF_Zestaw4_z2\bin\Debug\LF_Zestaw4_z2.exe
+H:\uś inf2\zpo\LF_Zestaw4_z2\LF_Zestaw4_z2\bin\Debug\LF_Zestaw4_z2.pdb
+H:\uś inf2\zpo\LF_Zestaw4_z2\LF_Zestaw4_z2\obj\Debug\LF_Zestaw4_z2.csprojResolveAssemblyReference.cache
+H:\uś inf2\zpo\LF_Zestaw4_z2\LF_Zestaw4_z2\obj\Debug\LF_Zestaw4_z2.ArenaDuelGame.UI.ArenaDuelForm.resources
+H:\uś inf2\zpo\LF_Zestaw4_z2\LF_Zestaw4_z2\obj\Debug\LF_Zestaw4_z2.DicePokerGame.UI.DicePokerForm.resources
+H:\uś inf2\zpo\LF_Zestaw4_z2\LF_Zestaw4_z2\obj\Debug\LF_Zestaw4_z2.GameLogsForm.resources
+H:\uś inf2\zpo\LF_Zestaw4_z2\LF_Zestaw4_z2\obj\Debug\LF_Zestaw4_z2.MainForm.resources
+H:\uś inf2\zpo\LF_Zestaw4_z2\LF_Zestaw4_z2\obj\Debug\LF_Zestaw4_z2.Properties.Resources.resources
+H:\uś inf2\zpo\LF_Zestaw4_z2\LF_Zestaw4_z2\obj\Debug\LF_Zestaw4_z2.csproj.GenerateResource.Cache
+H:\uś inf2\zpo\LF_Zestaw4_z2\LF_Zestaw4_z2\obj\Debug\LF_Zestaw4_z2.exe
+H:\uś inf2\zpo\LF_Zestaw4_z2\LF_Zestaw4_z2\obj\Debug\LF_Zestaw4_z2.pdb
